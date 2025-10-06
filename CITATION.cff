@@ -1,0 +1,18 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: QCP for Electronic Structure
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Kalyani
+    family-names: Suresh
+    affiliation: Leibniz Universität Hannover
+repository-code: 'https://github.com/kals26/QCP-for-Electronic-Structure'
+abstract: >-
+  Code for solving the electronic structure problem using
+  quantum conic programming
+license: CC-BY-NC-4.0
